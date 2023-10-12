@@ -34,6 +34,8 @@ Done!
   - `jupyter`  ( I recomend [miniconda3](http://conda.pydata.org/miniconda.html) and adding jupyter with `conda install jupyter` )
   - `nteract` (get it [here](https://nteract.io/))
   - `vscode`+`vscode-python` extension ( poor naming, but `vscode-python` also provides `jupyter` support )
+- `codemirror`
+  - For a modern vanilla jupyter-lab environment, you may need to install old codemirror v5 (`npm i codemirror@version5`) for the required `jupyter lab build` to work out of the box
 
 ### Long version:
 
